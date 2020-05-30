@@ -2,13 +2,14 @@ module.exports = {
   siteMetadata: {
     title: `Fanny tries to understand the world`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`
+      name: `Fanny Feuerstake`,
+      summary: `denn bald bin ich fertig mit Abitur`
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`
+      twitter: `kylemathews`,
+      github: `FunnyGitHub`
      
     }
   },
